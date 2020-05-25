@@ -13,6 +13,9 @@ Credit to https://github.com/zzh8829/yolov3-tf2 for yolov3 model
 
 Additional steps:
 
-Given more time, there are a lot of steps that can be taken to improve accuracy - data augmentation to start with, using the extra images to increase the size of the training set, hyperparameter tuning, anchor optimization and so on..
+-Given more time, there are a lot of steps that can be taken to improve accuracy - data augmentation to start with, using the extra images to increase the size of the training set, hyperparameter tuning, anchor optimization and so on..
+
+-Make code clean and usable in other situations - this is evry hastily put together.
 
 Using yolo might be overkill for this task but its a fast model that has many available implementations - I had less than a day to put this together so I used pre written models mainly.
+
